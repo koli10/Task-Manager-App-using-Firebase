@@ -1,6 +1,6 @@
 // Initialize Firebase with your config
 firebase.initializeApp({
-    apiKey: "AIzaSyCbxN6XdWI-tpLXTELdpkvfAoy8Icjd3w4",
+    apiKey: "Your API",
     authDomain: "plp-apps-3805b.firebaseapp.com",
     projectId: "plp-apps-3805b",
     storageBucket: "plp-apps-3805b.appspot.com",
